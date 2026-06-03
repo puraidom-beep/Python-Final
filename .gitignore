@@ -1,0 +1,16 @@
+# --- 画像データセット ---
+/annotations/
+/images/
+/Test/
+/Train/
+/Validation/
+
+# --- 学習済みモデルと重み ---
+*.pth
+*.yaml
+*.xml
+
+# --- Python・IDEの環境ファイル（もしあれば） ---
+.venv/
+__pycache__/
+.idea/
